@@ -1,1 +1,1 @@
-Python - More Data Structures: Set, Dictionary
+Tasks for Python more data structures
